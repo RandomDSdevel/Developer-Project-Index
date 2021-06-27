@@ -1,0 +1,29 @@
+# Adapted from <https://github.com/github/gitignore/blob/master/Global/macOS.gitignore>.  
+
+# General:  
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## `Icon\r\r` must end with two carriage returns (`\r`s.)  (Yes, this is weird, but I can't do anything about it.)  
+Icon
+
+
+# Thumbnails:  
+._*
+
+# Files that can/might appear at the root of a mounted volume's directory tree:  
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP shares:  
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
