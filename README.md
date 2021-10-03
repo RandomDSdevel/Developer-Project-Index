@@ -19,6 +19,6 @@
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like Homebrew, the 'missing packager for macOS,' but for those who prefer to build directly from source.  
 
-   _Status:_  **In Development Purgatory** (Albeit with the occasional _very_ minor update.)  
+   _Status:_  **In Development Purgatory** (Outstanding pull requests do see not-infrequent rebasing on top of upstream changes, though.)  
 
    (Assistance welcome/help wanted.)  
